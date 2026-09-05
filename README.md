@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GODFREY-7
 - 👀 I’m interested in Innovation, Business and ECE-Engineering
-- 🌱 I’m currently learning Device Control Systems and Circuitry
+- 🌱 I’m currently learning Device Control Systems and Circuitry and Product Manufacturing & Design.
 - 💞️ I’m looking to collaborate on these languages.
 - 📫 How to reach me? Just leave a note in my repositories.
 - 😄 Pronouns: He/Him/His.
