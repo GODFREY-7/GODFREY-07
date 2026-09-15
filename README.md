@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @GODFREY-7
-- 👀 I’m interested in Innovation, Business and ECE-Engineering
-- 🌱 I’m currently learning Device Control Systems and Circuitry and Product Manufacturing & Design.
-- 💞️ I’m looking to collaborate on these languages.
-- 📫 How to reach me? Just leave a note in my repositories.
-- 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: I find coding difficult too!!!
+- 👋 Hello there, Godfrey here!
+- 👀 Multi-disciplinary Applied Electrical Engineering and Innovative Business are my interests
+- 🌱 I am learning Simulation, Design, Programming, Circuitry and Business Management
+- 💞️ I’m looking to collaborate on the above learning interests.
+- 📫 How to reach me? Leave me a message in my repo.
+- ⚡ Fun fact: I am still learning too!!
 
 <!---
 GODFREY-7/GODFREY-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
