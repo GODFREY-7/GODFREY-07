@@ -61,7 +61,8 @@ The results showed the expected reduction in magnetic-field interaction as separ
 
 Exact experimental geometry and research-specific numerical parameters are intentionally excluded from this public version.
 
----
+---<img width="1543" height="748" alt="magVector at 50mm" src="https://github.com/user-attachments/assets/9e23acbb-e2ca-4223-a8a5-c2d187ab5a63" />
+
 
 ## Tools
 
@@ -70,6 +71,7 @@ Exact experimental geometry and research-specific numerical parameters are inten
 * Electromagnetic field visualization
 * 3D CAD-style geometry construction
 * Engineering data analysis
+* <img width="1890" height="1057" alt="yzz" src="https://github.com/user-attachments/assets/d7632293-74e4-49ce-84da-7ecbcfbeeaaa" />
 
 ---
 
@@ -85,6 +87,7 @@ This project improved my understanding of:
 * Solver configuration
 * Engineering troubleshooting
 * Technical documentation
+* <img width="1252" height="777" alt="Rx 5mm separation true" src="https://github.com/user-attachments/assets/5d74c6fb-55ad-43c4-9fa1-373c9a47fd5c" />
 
 More importantly, I learned how to move from:
 
@@ -101,8 +104,6 @@ That troubleshooting process is one of the skills I want to continue developing 
 ## Research Confidentiality
 
 This repository represents a **public portfolio summary of my individual technical experience**.
-<img width="1252" height="777" alt="Rx 5mm separation true" src="https://github.com/user-attachments/assets/5d74c6fb-55ad-43c4-9fa1-373c9a47fd5c" />
-
 
 It does not contain confidential research information, unpublished intellectual property, proprietary geometry, complete experimental datasets, or materials that belong to collaborators or faculty researchers.
 
