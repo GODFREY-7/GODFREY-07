@@ -1,3 +1,7 @@
+**Role:** Undergraduate engineering contributor  
+**Focus:** Electromagnetic simulation, model setup, troubleshooting, and results interpretation  
+**Tools:** ANSYS Electronics Desktop · Maxwell 3D
+
 # Coupled-Coil Electromagnetic Simulation — ANSYS Maxwell 3D
 
 ## Overview
@@ -61,7 +65,7 @@ The results showed the expected reduction in magnetic-field interaction as separ
 
 Exact experimental geometry and research-specific numerical parameters are intentionally excluded from this public version.
 
----<img width="1543" height="748" alt="magVector at 50mm" src="https://github.com/user-attachments/assets/9e23acbb-e2ca-4223-a8a5-c2d187ab5a63" />
+---
 
 
 ## Tools
@@ -71,8 +75,7 @@ Exact experimental geometry and research-specific numerical parameters are inten
 * Electromagnetic field visualization
 * 3D CAD-style geometry construction
 * Engineering data analysis
-* <img width="1890" height="1057" alt="yzz" src="https://github.com/user-attachments/assets/d7632293-74e4-49ce-84da-7ecbcfbeeaaa" />
-
+  
 ---
 
 ## What I Learned
@@ -87,7 +90,7 @@ This project improved my understanding of:
 * Solver configuration
 * Engineering troubleshooting
 * Technical documentation
-* <img width="1252" height="777" alt="Rx 5mm separation true" src="https://github.com/user-attachments/assets/5d74c6fb-55ad-43c4-9fa1-373c9a47fd5c" />
+* 
 
 More importantly, I learned how to move from:
 
@@ -100,6 +103,23 @@ to:
 That troubleshooting process is one of the skills I want to continue developing across engineering projects.
 
 ---
+## Project Snapshot
+
+### 3D Simulation Model
+![ANSYS Maxwell 3D model](<img width="1543" height="748" alt="magVector at 50mm" src="https://github.com/user-attachments/assets/9e23acbb-e2ca-4223-a8a5-c2d187ab5a63" />)
+
+*Sanitized view of the electromagnetic simulation environment used during the project.*
+
+### Field Visualization
+![Magnetic field visualization](<img width="1252" height="777" alt="Rx 5mm separation true" src="https://github.com/user-attachments/assets/5d74c6fb-55ad-43c4-9fa1-373c9a47fd5c" />)
+
+*Example field visualization used to inspect electromagnetic behavior and compare simulation conditions.*
+
+### System Concept
+![Coupled coil system diagram](<img width="1890" height="1057" alt="yzz" src="https://github.com/user-attachments/assets/d7632293-74e4-49ce-84da-7ecbcfbeeaaa" />
+)
+
+*Simplified public-facing diagram of the transmitter–field–receiver relationship.*
 
 ## Research Confidentiality
 
